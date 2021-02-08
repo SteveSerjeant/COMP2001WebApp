@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1c82dc3-7b6a-4bec-807c-b80c969dcb8d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/LibraryAgeInfo.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/LibraryUsers.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/library.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/data.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/displayJSON.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +49,32 @@
       <updated>1612648341089</updated>
       <workItem from="1612648343874" duration="125000" />
       <workItem from="1612648478168" duration="11383000" />
+      <workItem from="1612664486590" duration="547000" />
+      <workItem from="1612770764569" duration="549000" />
+      <workItem from="1612772506852" duration="234000" />
     </task>
+    <task id="LOCAL-00001" summary="Majority of layout with 3 php classes, index,displayJSON and data. Some work to sort out colours and buttons">
+      <created>1612664637777</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1612664637793</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Majority of layout with 3 php classes, index,displayJSON and data. Some work to sort out colours and buttons">
+      <created>1612664657269</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1612664657269</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Majority of layout with 3 php classes, index,displayJSON and data. Some work to sort out colours and buttons">
+      <created>1612664691701</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1612664691701</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -71,8 +90,11 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Majority of layout with 3 php classes, index,displayJSON and data. Some work to sort out colours and buttons" />
+    <option name="LAST_COMMIT_MESSAGE" value="Majority of layout with 3 php classes, index,displayJSON and data. Some work to sort out colours and buttons" />
   </component>
 </project>
